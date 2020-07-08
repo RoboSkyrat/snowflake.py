@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="snowflake.py-skyrat",
+    name="snowflake.py",
     version=snowflake.__version__,
     author="Skyrat",
     author_email="pythonProjects@skyrat.dev",

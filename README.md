@@ -8,7 +8,6 @@ Its honestly really simple to generate a snowflake.
 
 ```python
 import snowflake
-import time
 
 # The generator takes 3 arguments,
 # The epoch timestamp, The number of seconds since the Unix Epoch
